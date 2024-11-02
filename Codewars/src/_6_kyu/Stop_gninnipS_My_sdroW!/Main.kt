@@ -1,4 +1,4 @@
-package _6_kyu
+package _6_kyu.`Stop_gninnipS_My_sdroW!`
 
 
 fun main() {

@@ -1,4 +1,4 @@
-package Highest_Scoring_Word
+package _6_kyu.Highest_Scoring_Word
 
 fun main() {
     print(high("aa bb cc"))

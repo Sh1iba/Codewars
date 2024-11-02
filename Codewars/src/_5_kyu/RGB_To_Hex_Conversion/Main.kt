@@ -1,6 +1,4 @@
-package _5_kyu
-
-import java.util.*
+package _5_kyu.RGB_To_Hex_Conversion
 
 fun main() {
     println(rgb(148, 0, 211))

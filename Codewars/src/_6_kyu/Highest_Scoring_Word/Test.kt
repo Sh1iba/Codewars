@@ -1,4 +1,4 @@
-package Highest_Scoring_Word
+package _6_kyu.Highest_Scoring_Word
 
 import org.junit.jupiter.api.Assertions.assertEquals
 import org.junit.jupiter.api.Test

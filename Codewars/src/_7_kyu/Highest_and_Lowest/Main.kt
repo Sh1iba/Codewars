@@ -1,6 +1,4 @@
-package Highest_and_Lowest
-
-import Find_The_Parity_Outlier.find
+package _7_kyu.Highest_and_Lowest
 
 fun main() {
     println(highAndLow("8 3 -5 42 -1 0 0 -9 4 7 4"))

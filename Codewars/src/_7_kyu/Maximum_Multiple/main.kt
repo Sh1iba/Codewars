@@ -1,4 +1,4 @@
-package Maximum_Multiple
+package _7_kyu.Maximum_Multiple
 
 fun main() {
     println(maxMultiple(2, 7)) //6

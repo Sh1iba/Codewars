@@ -1,4 +1,4 @@
-package Find_The_Parity_Outlier
+package _6_kyu.Find_The_Parity_Outlier
 
 fun main() {
     println(find(arrayOf(2,6,8,-10,3)))

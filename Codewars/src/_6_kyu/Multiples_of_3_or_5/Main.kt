@@ -1,4 +1,4 @@
-package Multiples_of_3_or_5
+package _6_kyu.Multiples_of_3_or_5
 
 fun main() {
     println(solution(10))
